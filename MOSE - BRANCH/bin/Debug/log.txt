@@ -1,0 +1,1 @@
+﻿select TobeRefreshItemTb.trid,trtype,locationid,isnull(LocCode,'')LocCode from TobeRefreshItemTb left join itminvcmntb on TobeRefreshItemTb.trid=itminvcmntb.trid  left join locationtb on itminvcmntb.docdefloc=locationtb.loccode where isnull(mchnname,'')='' and isnull(createdby,'')='LAPTOP-5BG0P5ON'  and brid='ZUBARA'

@@ -1,0 +1,1746 @@
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\office.dll
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\bin\Debug\office.xml
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\office.dll
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROJECTS\MOSE - BRANCH\bin\Debug\office.xml
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+E:\VINVIS\PROJECTS\MOSE\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+D:\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\office.dll
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\office.xml
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GSTR1.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TailorDashboardFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StichingServiceMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StichingJobFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsaapFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobReceiptFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\office.dll
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\bin\Debug\office.xml
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GSTR1.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsaapFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobReceiptFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StichingJobFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StichingServiceMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TailorDashboardFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AgeingReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFCustomerReceipt.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFISReportFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AutoRefreshFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemImageFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SchoolTeacherFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SchollFeesMasterFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MonthlyFeesInvoiceFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AutoRefreshFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MonthlyFeesInvoiceFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SchollFeesMasterFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SchoolTeacherFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ItemImageFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFSalesInvoice.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFCustomerReceipt.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AgeingReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MFISReportFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DateRangeFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WeeklyCollectionFrm.resources
+D:\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Debitnote.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.Debitnote.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.DateRangeFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.WeeklyCollectionFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FeesInvoiceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionDXBFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CourseItem.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.FeesSalesInvoice.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SchoolDXBDashBoardFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.TreatmentItem.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.eventLogFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AutoUpdateToServerFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.SwimmingPoolMemberShipFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipAttendanceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImageFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAttendanceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.CameraFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.GYMMemberShipFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\office.dll
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\MOSE - BRANCH\MOSE - BRANCH\bin\Debug\office.xml
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AutoRefreshFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AutoUpdateToServerFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CameraFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ViewImageFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TreatmentItem.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GYMMemberShipFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MembershipAttendanceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ShowAttendanceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SwimmingPoolMemberShipFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.eventLogFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FeesSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Debitnote.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DateRangeFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WeeklyCollectionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CourseItem.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SchoolDXBDashBoardFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionDXBFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FeesInvoiceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MonthlyFeesInvoiceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SchollFeesMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SchoolTeacherFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItemImageFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MFSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MFCustomerReceipt.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AgeingReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GSTR1.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MFISReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WhatsaapFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobReceiptFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StichingJobFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StichingServiceMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TailorDashboardFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+F:\MOSE - BRANCH\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\office.dll
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\VINVIS\PROJECTS\MOSE - BRANCH\bin\Debug\office.xml
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AutoRefreshFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AutoUpdateToServerFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CameraFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImageFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MilkCustomerPriceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MilksalesFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AmcList.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TreatmentItem.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GYMMemberShipFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipAttendanceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAttendanceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SwimmingPoolMemberShipFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.eventLogFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FeesSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Debitnote.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DateRangeFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WeeklyCollectionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CourseItem.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SchoolDXBDashBoardFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionDXBFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FeesInvoiceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MonthlyFeesInvoiceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SchollFeesMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SchoolTeacherFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemImageFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MFSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MFCustomerReceipt.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AgeingReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GSTR1.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MFISReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WhatsaapFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobReceiptFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StichingJobFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StichingServiceMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TailorDashboardFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+F:\VINVIS\PROJECTS\MOSE - BRANCH\obj\Debug\SMSMP.ActivateFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\Mose Billing.exe
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\Mose Billing.xml
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\Mose Billing.pdb
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Mose Billing.exe
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Mose Billing.pdb
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Mose Billing.xml
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\office.dll
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\bin\Debug\office.xml
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\ResolveAssemblyReference.cache
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Resources.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectBarcodeFormat.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddFollowupFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ClinicApBookingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ClinicAppointmentFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PatientFollowupFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DoctorDeskFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PreBookingAppointmentFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.QuickPatientCreateFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ReferedByDoctorsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectClinicBookingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ServiceItemCollectionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VisitNoteFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AutoRefreshFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AutoUpdateToServerFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.BrLogin.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CameraFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ProtectUntilFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ViewImageFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WhatsAppFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ActivateFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MilkCustomerPriceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MilksalesFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AmcList.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TreatmentItem.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GYMMemberShipFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MembershipAttendanceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ShowAttendanceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SwimmingPoolMemberShipFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.eventLogFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FeesSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RestructureFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AdvanceSetoff.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.BranchFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CollectionRVComparisonFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Debitnote.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DateRangeFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WeeklyCollectionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CourseItem.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SchoolDXBDashBoardFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionDXBFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FeesInvoiceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MonthlyFeesInvoiceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SchollFeesMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SchoolTeacherFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItemImageFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MFSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddTrayOrReturnTrayFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseReturnInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesReturnInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FruitPurchaseInvoiceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FruitSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FinanceSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FineFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LoanBook.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ProcessFormFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RVCollectionListFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ShowLocationQtyFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TunurMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WaitMessageFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.YearEndFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FruitsTrayAnalysisFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.UsedcarFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.usedcar10.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.xrtra.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LaundryOrderFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseOrderFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CustomerDeliverOrderFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesOrderFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ViewImportedDocsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.About.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddAccessories.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddDescriptionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Doctor.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PatientInfoFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DataFromDbFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LocationMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DepartmentCreation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DOListFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LaundryReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LodgeSettingsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectItemBatchFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GCCVatMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.UAETaxReport.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LodgeBookingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectBookingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ContractMemberShipFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MembershipItemsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MFCustomerReceipt.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.EmpworksheetFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.POSCustomerFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.POSInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.POSLogin.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TenderedEntryFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AgeingReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AuditReportLodgeFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CollectionListFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.BranchReconciliation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DaycloseReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GSTR1.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MFISReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesmanwiseSummaryfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StudentAdmissionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WhatsaapFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobReceiptFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StichingJobFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StichingServiceMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TailorDashboardFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddFamilyFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddFuelMeterReadingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddSerialnoFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddtoWarrenty.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AssignJobItemsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AutherizedLogin.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AvailableSerialNumberListFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Backupfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.BankCodeCreation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.BarCodeFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CardHistoryFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CardTypeMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ChangeSecurityFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Companyfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ContractJobList.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DesignationCreation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FindCustomerSerialNumberFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CustomerQuotation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CorrectInvAcc.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobCardFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GarrageJobDeliveryFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobEnqryFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.AddRoomsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CheckOutFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LodgeCheckInFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LodgeRoomFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DailyWorkSheetFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.EmployeeMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PaymentBookingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DocReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DeliverywiseOutstandingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MaterialConusumptionComparisonFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesanalysisFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StockmovementFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectCardPackageFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StockShortageFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.DocumentView.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.addSmsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SendShortSMSFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SendSMSFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ChurchAdmissionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ParshAddFamilyFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.NercharFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ChurchSalesFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.IncomeExpenseFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WSServiceSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WSCardSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TransferiItemsFromExcel.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VehiclemasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WebInvReport.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ProductionInvReport.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItemRawMaterialFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ManufacturingFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobPendingAssign.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FuelInvReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LastRenewedDateFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MultipledebitsOnSalesFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TransferToWebFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.UpdateToWebserver.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesNewFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CreateCashCustomerFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PDCTransfer.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PrintCopiesFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TaxReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.QuotationFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.HSNCodeMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StateCodeCreation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.OtherReceiptsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ExpensePayments.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.InvoicePercentage.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.GoodsTransferFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ShowAlert.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ShowJobItemTransactionsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.StockAdjustmentFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobSalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatements.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.FinancialStatus.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobDelivery.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LevelMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PricemanagementFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Profitanalysis.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Reconciliation.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RefreshcostAverage.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RefreshDatabase.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RptToXmlFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesMan.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesPurchaseReturnItemsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesReturnInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseReturnInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CustomerReceipt.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CreateAcc.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CurrencyFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.EditTitle.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Homefrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.IMEINos.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.InvReportFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobClosing.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JobList.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.JournalVoucher.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.KeyForm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.LedgerGroupFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Login.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.MainFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Mlistfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CreateAccNew.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.CreatePackList.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItemCostFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItemMastFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqry.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.OtherPayments.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PreviousPaymentFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.PurchaseInvoiceFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.QtyReport.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.QuickItem.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SetGroup.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ShowTax.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SupplierPayments.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.TempleAdmissionFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VatMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VazhipaduSalesFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.VoucherWiseReport.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ReprtviewNEWfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.RptFormatfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SalesInvoice.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SearchText.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectHistory.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SelectInvTr.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.UnitMasterFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Restorefrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.Selectfrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ServerFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ServiceJob.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.SplashScreen.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.UserSettingsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyCancel.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WarrentyMaster.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WebsettingsFrm.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.WSCardRenew.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.ItmEnqrytemple.resources
+F:\VINVIS\PROJECTS\PROJECT\MOSE - BRANCH\obj\Debug\SMSMP.vbproj.GenerateResource.Cache
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.RefreshCostManualFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.ActivateFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MilkCustomerPriceFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.MilksalesFrm.resources
+E:\VINVIS\PROJECTS\VINVIS\MOSE APPS\MOSE - BRANCH\obj\Debug\SMSMP.AmcList.resources
